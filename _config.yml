@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title:
 email:
@@ -10,3 +11,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
+=======
+theme: jekyll-theme-slate
+baseurl: /test
+>>>>>>> 04074b4c7873a2e881060d99b23ffb3ffb7c4da3
